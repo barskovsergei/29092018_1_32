@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-    <h1>Это наша супер страница!</h1>
-
+    <h1>Это наша супер страница 1</h1>
+    
     <script src='/js/main.js'></script>
 </body>
 </html>
